@@ -1,0 +1,16 @@
+﻿  main.cpp
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+D:\of_v0.11.2_vs2017_release\apps\myApps\TwitterThing\src\ofApp.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\apps\myApps\TwitterThing\src\ofApp.cpp(99,21): warning C4018: '<': signed/unsigned mismatch
+D:\of_v0.11.2_vs2017_release\apps\myApps\TwitterThing\src\ofApp.cpp(109,21): warning C4018: '<': signed/unsigned mismatch
+     Creating library bin\TwitterThing_debug.lib and object bin\TwitterThing_debug.exp
+  TwitterThing.vcxproj -> D:\of_v0.11.2_vs2017_release\apps\myApps\TwitterThing\bin\TwitterThing_debug.exe
+  
+  	                   2	D:\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	D:\of_v0.11.2_vs2017_release\apps\myApps\TwitterThing\bin\FreeImage.dll
+  
+  	                   1	D:\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	D:\of_v0.11.2_vs2017_release\apps\myApps\TwitterThing\bin\fmod.dll
+  	  *EXTRA File 		 1733120	D:\of_v0.11.2_vs2017_release\apps\myApps\TwitterThing\bin\fmodL.dll
